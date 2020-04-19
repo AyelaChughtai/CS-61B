@@ -31,17 +31,19 @@ Lab2: IntelliJ and IntLists
 
 Lab3: IntDLists and Debugging
 
-Lab4: OOP with Collections, Iterators, and Iterables
+Lab5: OOP with Collections, Iterators, and Iterables
 
-Lab5: Unit Testing and Integration Testing for Enigma
+Lab6: Unit Testing and Integration Testing for Enigma
 
-Lab6: Practical Asymptotic Analysis and TreeMaps
+Lab8: Practical Asymptotic Analysis and TreeMaps
 
-Lab7: Heaps and Priority Queues
+Lab9: Heaps and Priority Queues
 
-Lab8: Files and Persistence
+Lab12: Files and Persistence
 
-Lab9: Union Find and MSTs
+Lab13: Software Engineering and Design
+
+Lab13: Union Find and MSTs
 
 # Projects
 
