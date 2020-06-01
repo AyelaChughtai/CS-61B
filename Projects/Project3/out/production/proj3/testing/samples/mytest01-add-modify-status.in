@@ -1,0 +1,37 @@
+# Test EC for modifications if add contains a version of modified file
+# but more changes have since been made.
+I setup1.inc
++ f.txt notwug.txt
+> status
+=== Branches ===
+*master
+
+=== Staged Files ===
+f.txt
+g.txt
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+f.txt (modified)
+
+=== Untracked Files ===
+
+<<<
+> add f.txt
+<<<
+> status
+=== Branches ===
+*master
+
+=== Staged Files ===
+f.txt
+g.txt
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+
+<<<

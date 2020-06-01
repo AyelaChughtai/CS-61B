@@ -1,0 +1,30 @@
+# Testing if initial order of errors.
++ f.txt wug.txt
+>
+Please enter a command.
+<<<
+> stat
+No command with that name exists.
+<<<
+> status
+Not in an initialized Gitlet directory.
+<<<
+> init
+<<<
+> stat
+No command with that name exists.
+<<<
+> status
+=== Branches ===
+*master
+
+=== Staged Files ===
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+f.txt
+
+<<<

@@ -1,0 +1,36 @@
+# Test EC for untracked files that were previously staged for addition.
+I setup1.inc
+> status
+=== Branches ===
+*master
+
+=== Staged Files ===
+f.txt
+g.txt
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+
+<<<
+> rm f.txt
+<<<
+> rm g.txt
+<<<
+> status
+=== Branches ===
+*master
+
+=== Staged Files ===
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+a.txt
+h.txt
+
+<<<
