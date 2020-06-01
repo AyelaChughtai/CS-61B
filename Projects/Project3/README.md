@@ -21,5 +21,5 @@ Processes commands entered to create and run the .gitlet system. Outputs error m
     *-2.in	            Test cases.  Each one is input to a testing script.
 
     *-1.std
-    *-2.std		          Correct output from the corresponding .in files,
+    *-2.std		    Correct output from the corresponding .in files,
                         containing log, global log, status, and error messages.
