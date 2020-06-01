@@ -47,10 +47,10 @@ Lab13: Union Find and MSTs
 
 # Projects
 
-Project1: Signpost
+Project1: Signpost (An arrow directional game, modeled after Simon Tatham's 'Signpost' game.)
 
-Project2: Enigma
+Project2: Enigma (A replica of the Enigma encryption/decryption machine used in World War II.)
 
-Project3: Lines of Action
+Project3: Lines of Action (A board game invented by Claude Soucie and played on a checkerboard with ordinary checkers pieces.)
 
-Project4: Gitlet
+Project4: Gitlet (A version-control system that mimics most basic features of the popular system Git.)
